@@ -1,6 +1,7 @@
 # Neofetch cmd but for windows
 
-print("""                    \033[92m....,,:;+ccllll    \033[00m  
+print("""                    
+                    \033[92m....,,:;+ccllll    \033[00m  
       \033[91m...,,+:;  \033[92mcllllllllllllllllll\033[0m    ---------
 \033[91m,cclllllllllll  \033[92mllllllllllllllllll\033[0m    \033[94mOS: \033[0mwindows 11 pro x86_64
 \033[91mllllllllllllll\033[0m  \033[92mllllllllllllllllll\033[0m    \033[94mHost: \033[0mASUSTeK COMPUTER INC. Vivobook 15 ASUS Laptop X570UD
